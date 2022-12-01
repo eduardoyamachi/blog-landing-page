@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<conteudo>
+    <postagem codigo="1">
+        <titulo>Notícia 1</titulo>
+        <corpo>a Primeiro Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse, minus aliquid, ab eos dolore molestias amet nam quasi totam earum nulla aperiam odit? Inventore consequatur 
+            hic veniam assumenda nostrum nemo vitae dolor quidem maxime temporibus explicabo, ullam, corporis placeat ad sequi, cupiditate eos alias tenetur accusamus. Iusto quasi, 
+            aut debitis amet rem in vero praesentium accusamus nostrum facilis mollitia. Id incidunt cupiditate voluptate, fugiat odit, eaque eveniet at magnam iure ad voluptatum explicabo 
+            quos vero perspiciatis consectetur sit voluptatibus! Expedita officia, non cumque quam magnam quasi culpa beatae accusantium nostrum a ducimus, dignissimos ex distinctio sit incidunt. 
+            Neque, debitis tenetur?
+        </corpo>
+        <imagem_1 fileName="img_a.jpg">img2.jpg</imagem_1>
+    </postagem>
+    <postagem codigo="2">
+        <titulo>Notícia 2</titulo>
+        <corpo>Terceiraaa Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse, minus aliquid, ab eos dolore molestias amet nam quasi totam earum nulla aperiam odit? Inventore consequatur 
+            hic veniam assumenda nostrum nemo vitae dolor quidem maxime temporibus explicabo, ullam, corporis placeat ad sequi, cupiditate eos alias tenetur accusamus. Iusto quasi, 
+            aut debitis amet rem in vero praesentium accusamus nostrum facilis mollitia. Id incidunt cupiditate voluptate, fugiat odit, eaque eveniet at magnam iure ad voluptatum explicabo 
+            quos vero perspiciatis consectetur sit voluptatibus! Expedita officia, non cumque quam magnam quasi culpa beatae accusantium nostrum a ducimus, dignissimos ex distinctio sit incidunt. 
+            Neque, debitis tenetur?
+        </corpo>
+        <imagem_1 fileName="img_b.jpg">jokee.jpg</imagem_1>
+    </postagem>
+    <postagem codigo="3">
+        <titulo>Notícia 3</titulo>
+        <corpo>a segundaaa Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse, minus aliquid, ab eos dolore molestias amet nam quasi totam earum nulla aperiam odit? Inventore consequatur 
+            hic veniam assumenda nostrum nemo vitae dolor quidem maxime temporibus explicabo, ullam, corporis placeat ad sequi, cupiditate eos alias tenetur accusamus. Iusto quasi, 
+            aut debitis amet rem in vero praesentium accusamus nostrum facilis mollitia. Id incidunt cupiditate voluptate, fugiat odit, eaque eveniet at magnam iure ad voluptatum explicabo 
+            quos vero perspiciatis consectetur sit voluptatibus! Expedita officia, non cumque quam magnam quasi culpa beatae accusantium nostrum a ducimus, dignissimos ex distinctio sit incidunt. 
+            Neque, debitis tenetur?
+        </corpo>
+        <imagem_1 fileName="img_c.jpg">coringa.jpg</imagem_1>
+    </postagem>
+    <postagem codigo="4">
+        <titulo>Notícia 4</titulo>
+        <corpo>a segundaaa Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse, minus aliquid, ab eos dolore molestias amet nam quasi totam earum nulla aperiam odit? Inventore consequatur 
+            hic veniam assumenda nostrum nemo vitae dolor quidem maxime temporibus explicabo, ullam, corporis placeat ad sequi, cupiditate eos alias tenetur accusamus. Iusto quasi, 
+            aut debitis amet rem in vero praesentium accusamus nostrum facilis mollitia. Id incidunt cupiditate voluptate, fugiat odit, eaque eveniet at magnam iure ad voluptatum explicabo 
+            quos vero perspiciatis consectetur sit voluptatibus! Expedita officia, non cumque quam magnam quasi culpa beatae accusantium nostrum a ducimus, dignissimos ex distinctio sit incidunt. 
+            Neque, debitis tenetur?
+        </corpo>
+        <imagem_1 fileName="img_c.jpg">coringa.jpg</imagem_1>
+    </postagem>
+</conteudo>
